@@ -1,6 +1,6 @@
 <p align="center"><img src='https://www.ma-no.org/cache/galleries/contents-2186/860-300/image-webcam-with-javascript.jpg'></p>
 
-# گرفتن عکس و موقعیت مکانی ایپی
+# گرفتن عکس و موقعیت مکانی شخص مورد نظر
 
 یک ابزار برای عکس گرفتن و بدست اوردن موقعیت مکانی شخص مورد نظر
 
@@ -15,7 +15,7 @@
 
 -------------------------------------------------------------------------
 
-# Capture photos and IP location
+# Taking a photo and location of the desired person
 
 A tool to take photos and get the location of the desired person
 
