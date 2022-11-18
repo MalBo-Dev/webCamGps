@@ -1,0 +1,6 @@
+<?php
+
+$token="";
+$admin="";
+$host="";
+?>
